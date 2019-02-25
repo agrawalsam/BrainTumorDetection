@@ -2,7 +2,7 @@
 This project implements K-Means clustering and Morphological Processing for finding brain tumor in the given image of brain.
 Due to difficulty of .m file, code has been uploaded in the following lines with example - 
 
-a=imread('1.jpg'); %1.jpg is given image.Images can be found in the internet. 
+a=imread('1.jpg'); %1.jpg is given image.Images can be found in the internet. /n
 figure
 imshow(a) %original image display
 %Pre-processing laplacian filter locally
